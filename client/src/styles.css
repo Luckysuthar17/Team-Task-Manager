@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+}
+
+input,
+textarea,
+select {
+  width: 300px;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+nav {
+  display: flex;
+  gap: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
